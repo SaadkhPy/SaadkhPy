@@ -1,27 +1,22 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>
-<br/>
 <br/>
 
 <div align="center">
   
-I'm a 🔭️ **Junior DataOps Engineer**, passionate about building the bridge between data and operations using automation and DevOps principles.
-
-🌱 My core focus is on applying what I learn to real-world scenarios: building robust **CI/CD pipelines** for data quality, containerizing applications with **Docker**, and getting hands-on with **Kubernetes** and **Terraform**.
-
-🐧️ I thrive in a **Linux** environment, scripting solutions to make data pipelines more reliable, observable, and efficient.
-
-🤝 I am actively seeking to collaborate on open-source projects where I can learn from seasoned engineers and contribute to data automation and infrastructure challenges.
-
-🤔 My goal is to grow into a proficient DataOps professional by helping teams deliver trusted data faster and more reliably.
-
-⚡ **Fun fact**: I spend my days learning to automate complex data workflows and my evenings trying to automate the perfect brewing time for Moroccan mint tea. So far, the data workflows are proving easier.
+I'm a 🔭️ **Junior DataOps Engineer**, passionate about building the bridge between data and operations using automation and DevOps principles. I thrive in a **Linux** 🐧️ environment, scripting solutions to make data pipelines more reliable, observable, and efficient.
   
 </div>
 
 ---
+### 🌱 My Current Focus
+My goal is to develop into a proficient DataOps professional by helping teams deliver trusted data more efficiently. I am applying what I learn to real-world scenarios by:
+- Building robust **CI/CD pipelines** for data quality.
+- Containerizing applications with **Docker** and getting hands-on with **Kubernetes**.
+- Scripting infrastructure with **Terraform**.
 
+---
 ### 💻 My Skill Set
 
 <table>
@@ -58,8 +53,13 @@ I'm a 🔭️ **Junior DataOps Engineer**, passionate about building the bridge 
 </table>
 
 ---
+### 💬 Let's Connect & Talk About...
+I am actively seeking to collaborate on open-source projects! Feel free to reach out.
 
-### 💬 Connect with Me
+- Data Pipeline Automation & CI/CD Best Practices
+- The Future of Data Engineering & DataOps
+- Learning DevOps and Cloud Technologies in Rabat
+- ...or the best spot to watch the sunset over the Bouregreg river! 🌅
 
 <div align="center">
 <a href="https://www.linkedin.com/in/your-username" target="_blank">
@@ -74,9 +74,9 @@ I'm a 🔭️ **Junior DataOps Engineer**, passionate about building the bridge 
 </div>
 
 ---
-
 ### 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=dark" align="center" />
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=dark" align="center" />
+</div>
