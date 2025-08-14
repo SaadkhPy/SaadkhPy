@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://github.com/SaadkhPy/SaadkhPy/blob/main/banner.png"  width="200" height="150" alt="Saad's Banner"/>
-</p>
-
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Saad 
+    Hi there, I'm Saad KHALMADANI 🎯️🚀️
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>A DataOps Engineer building and automating the backbone of modern data platforms.</p>
@@ -84,7 +80,10 @@ Here are the technologies I work with.
     <td id="-databases"><strong>Databases</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB"/>
     </td>
   </tr>
   <tr>
