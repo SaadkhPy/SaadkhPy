@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -41,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHBhdGggZmlsbD0iIzIwQTdDNSIgZD0iTTEyOCAwYzIzLjA0IDAgNDQuNDIgNi4xNCA2Mi4xNCAxOC40M0wxMjggNjQuMjkgNjUuODYgMTguNDNDODMuNTggNi4xNCAxMDQuOTYgMCAxMjggMHoiLz48cGF0aCBmaWxsPSIjMjg2MDkwIiBkPSJtNjQuMjkgMTI4IDYzLjcxIDQ1Ljg2IDYzLjcxLTQ1Ljg2Yy02LjE0IDExLjktMTQuMTQgMjIuODYtMjQgMzIuNTdsLTM5LjcxIDI4LTM5LjcxLTI4Yy05Ljg2LTkuNzEtMTcuODYtMjAuNjctMjQtMzIuNTd6Ii8+PHBhdGggZmlsbD0iIzIwQTdDNSIgZD0ibTIzNy41NyA2NS44Ni00NS44NiA2My43MSA0NS44NiA2My43MWMxMi4yOS0xNy43MSAxOC40My0zOS4wOSAxOC40My02Mi4xNHMtNi4xNC00NC40My0xOC40My02NS4yOHoiLz48cGF0aCBmaWxsPSIjMjg2MDkwIiBkPSJNMTguNDMgNjUuODZDNi4xNCA4My41NyAwIDEwNC45NSAwIDEyOHM2LjE0IDQ0LjQzIDE4LjQzIDY1LjI4bDQ1Ljg2LTYzLjcxLTQ1Ljg2LTYzLjcxeiIvPjxwYXRoIGZpbGw9IiMxNjc0OEIiIGQ9Ik0xMjggMjU2Yy0yMy4wNCAwLTQ0LjQyLTYuMTQtNjIuMTQtMTguNDNMMTI4IDE5MS43MWw2Mi4xNCA0NS44NkMxNzIuNDIgMjQ5Ljg2IDE1MTA0IDI1NiAxMjggMjU2eiIvPjwvc3ZnPg==" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachekylin.svg" width="40" height="40"/>
 </p>
 
