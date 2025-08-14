@@ -24,27 +24,6 @@
 
 ## 🛠 Languages & Tools
 
-### Programming Languages
-Python, C, C++, Java, HTML5, CSS3
-
-### Databases
-MySQL, MariaDB, PostgreSQL, Hive, Oracle, Redis, MongoDB
-
-### Big Data & Streaming
-Apache Kafka, Apache Spark, Apache Kylin, Apache Superset, Debezium, Hadoop
-
-### Containers & Orchestration
-Docker, Docker Compose, Kubernetes
-
-### Development Tools
-Eclipse, NetBeans, Git, UML, Microsoft Office Suite
-
-### Design & UI/UX Tools
-Adobe Photoshop, Illustrator, InDesign, XD, Figma
-
-### Operating Systems
-Windows, UNIX, Linux, macOS
-
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -62,9 +41,9 @@ Windows, UNIX, Linux, macOS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/superset/superset-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kylin/kylin-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Apache_Spark_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apache_Superset_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Apache_Kylin_logo.svg" width="40" height="40"/>
 </p>
 
 
