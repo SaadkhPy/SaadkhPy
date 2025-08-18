@@ -68,8 +68,6 @@ Apache Kafka | Apache Spark | Apache Kylin
 
 ### 📌 Featured Projects  
 
-👉 *(You can pin your top 2–3 projects here with short descriptions and badges. Example:)*  
-
 - **[Dofus Monster Scraper](https://github.com/SaadkhPy/)** 🐉 – Automated web scraper with **Selenium + PostgreSQL + Streamlit**  
 - **[DataOps Pipeline](https://github.com/SaadkhPy/)** ⚡ – End-to-end pipeline with **Kafka, Kylin, and Superset**  
 
