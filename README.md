@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saad%20Khalmadani%20🚀&fontSize=40&animation=fadeIn&fontAlignY=40" />
   
-  <h3>⚡ DataOps Engineer | Automating Data Infrastructure | Cloud-Native Enthusiast ⚡</h3>
+  <h3>⚡ DataOps Engineer | Automating Data Infrastructure ⚡</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/saad-khalmadani" target="_blank">
