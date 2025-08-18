@@ -107,7 +107,7 @@ A **modular Python web scraping framework** built with **BeautifulSoup, Selenium
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaadkhPy&theme=radical" height="160" />
-</p>
+</p> 
 
 ---
 
