@@ -64,10 +64,10 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 <h4>🔥 Data Processing</h4>
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="60" title="Spark" />
-    <img src="https://kylin.apache.org/assets/images/logo.png" width="60" title="Apache Kylin" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/superset/superset-original.svg" width="40" title="Superset" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="60" title="Spark" />
+  <img src="https://kylin.apache.org/assets/images/logo.png" width="60" title="Apache Kylin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/superset/superset-original.svg" width="40" title="Superset" />
 </p>
 
 </div>
