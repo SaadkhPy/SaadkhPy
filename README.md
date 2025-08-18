@@ -69,10 +69,16 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 <!-- Data Processing -->
 <h4>🔥 Data Processing</h4>
 <p>
+  <!-- Kafka -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="40" title="Spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekylin/apachekylin-original.svg" width="40" title="Kylin" />
+  <!-- Spark (alternative logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" title="Spark" />
+  <!-- Kylin (alternative logo) -->
+  <img src="https://kylin.apache.org/images/logo/kylin_logo.svg" width="40" title="Kylin" />
+  <!-- Superset (alternative logo) -->
+  <img src="https://superset.apache.org/images/superset-logo-horiz.png" width="80" title="Superset" />
 </p>
+
 
 </div>
 </details>
