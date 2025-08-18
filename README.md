@@ -71,13 +71,14 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 <p>
   <!-- Kafka -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
-  <!-- Spark (alternative logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" title="Spark" />
-  <!-- Kylin (alternative logo) -->
-  <img src="https://kylin.apache.org/images/logo/kylin_logo.svg" width="40" title="Kylin" />
-  <!-- Superset (alternative logo) -->
-  <img src="https://superset.apache.org/images/superset-logo-horiz.png" width="80" title="Superset" />
+  <!-- Spark -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/spark-original-wordmark.svg" width="60" title="Spark" />
+  <!-- Kylin -->
+  <img src="https://raw.githubusercontent.com/apache/kylin-site/master/src/img/logo.svg" width="60" title="Apache Kylin" />
+  <!-- Superset -->
+  <img src="https://raw.githubusercontent.com/apache/superset/main/docs/img/superset-logo-horiz.png" width="80" title="Superset" />
 </p>
+
 
 
 </div>
