@@ -66,8 +66,8 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="60" title="Spark" />
-    <img src="https://kylin.apache.org/assets/images/logo.png?v=1" width="60" title="Apache Kylin" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/superset/superset-original.svg?v=1" width="40" title="Superset" />
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/apachekylin-x3erjwirp42wj7fw3fh4z.png/apachekylin-do1cjrp803djjoedvd32j.png?_a=DATAg1AAZAA0" width="60" title="Apache Kylin" />
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" width="40" title="Superset" />
 </p>
 
 </div>
