@@ -35,32 +35,48 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 <details open>
 <summary>📂 Click to expand</summary>
 
-**💻 Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/C-00599C?logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+<div align="center">
 
-**🗄️ Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)  
+<!-- Languages -->
+<h4>💻 Languages</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+</p>
 
-**⚙️ DevOps & Cloud:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB" />
+</p>
 
-**🔥 Data Processing:**  
-![Kafka](https://img.shields.io/badge/Kafka-000?logo=apachekafka)  
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)  
-![Kylin](https://img.shields.io/badge/Kylin-0078D7?logo=apache)  
+<!-- DevOps & Cloud -->
+<h4>⚙️ DevOps & Cloud</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform" />
+</p>
 
+<!-- Data Processing -->
+<h4>🔥 Data Processing</h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" title="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original.svg" width="40" title="Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekylin/apachekylin-original.svg" width="40" title="Kylin" />
+</p>
+
+</div>
 </details>
+
 
 ---
 
