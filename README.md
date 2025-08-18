@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1>
-    Hi there, I'm Saad KHALMADANI 🎯️🚀️
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi there, I'm Saad KHALMADANI 🎯🚀
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
   </h1>
-  <p>A DataOps Engineer building and automating the backbone of modern data platforms.</p>
+  <p><em>A DataOps Engineer building and automating the backbone of modern data platforms.</em></p>
   
   <a href="https://www.linkedin.com/in/saad-khalmadani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,129 +15,87 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-I'm a **DataOps Engineer** from Rabat, Morocco, passionate about the intersection of data, automation, and cloud-native technologies. I specialize in applying DevOps principles to the entire data lifecycle, ensuring that data pipelines are not just functional, but also scalable, reliable, and observable.
+I’m a **DataOps Engineer** from Rabat, Morocco 🌍.  
+Passionate about bridging **data engineering** and **DevOps practices**, I design scalable and reliable pipelines that ensure data flows seamlessly from source to insight.  
 
-- 🔭 I’m currently building robust, automated data solutions.
-- 🌱 My core focus includes **CI/CD for data quality**, **containerization with Docker**, **orchestration with Kubernetes**, and **IaC with Terraform**.
-- 🐧 Thriving in **Linux** environments and scripting my way to more efficient data systems.
-- 🤝 I’m eager to collaborate on **open-source data automation and MLOps projects**.
-- 💬 Ask me about **Data Pipeline Automation**, **Learning DevOps in Rabat**, or the best spots to watch the sunset over the **Bouregreg River**.
+- 🔭 Currently crafting **automated, cloud-native data solutions**  
+- 🌱 Focused on **CI/CD for data**, **Docker/Kubernetes orchestration**, and **Terraform IaC**  
+- 🐧 Daily driver: **Linux** with lots of shell & Python scripting  
+- 🤝 Always open to collaborate on **open-source data automation & MLOps projects**  
+- 💬 Ask me about **data pipeline automation**, **DevOps journeys in Rabat**, or the best place to watch the **Bouregreg sunset** 🌅  
 
 ---
 
-### 🛠️ My Tech Stack
-
-Here are the technologies I work with.
+### 🛠️ Tech Stack  
 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <a href="#-languages">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br>Languages
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Languages
     </td>
     <td align="center" width="120">
-      <a href="#-databases">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      </a>
-      <br>Databases
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br>Databases
     </td>
     <td align="center" width="120">
-      <a href="#-devops--cloud">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      </a>
-      <br>DevOps & Cloud
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>DevOps & Cloud
     </td>
     <td align="center" width="120">
-      <a href="#-data-processing">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" alt="Spark" />
-      </a>
-      <br>Data Processing
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" alt="Spark" /><br>Data Processing
     </td>
   </tr>
 </table>
 
 <details>
-<summary>Click to expand</summary>
+<summary>📂 Expand Full Stack</summary>
 <br/>
 
-<table>
-  <tr>
-    <td id="-languages"><strong>Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td id="-databases"><strong>Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB"/>
-    </td>
-  </tr>
-  <tr>
-    <td id="-devops--cloud"><strong>DevOps & Cloud</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" />
-    </td>
-  </tr>
-  <tr>
-    <td id="-data-processing"><strong>Data Processing</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Kafka" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="36" height="36" alt="Spark" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachekylin.svg" width="36" height="36" alt="Kylin" style="background-color: white; border-radius: 5px;" />
-    </td>
-  </tr>
-</table>
+#### 💻 Languages  
+Python | C | C++ | Java | HTML5 | CSS3  
+
+#### 🗄️ Databases  
+PostgreSQL | MongoDB | Redis | MySQL | MariaDB  
+
+#### ⚙️ DevOps & Cloud  
+Git | Linux | Docker | Kubernetes | Terraform  
+
+#### 🔥 Data Processing  
+Apache Kafka | Apache Spark | Apache Kylin  
 </details>
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects  
 
--->
+👉 *(You can pin your top 2–3 projects here with short descriptions and badges. Example:)*  
+
+- **[Dofus Monster Scraper](https://github.com/SaadkhPy/)** 🐉 – Automated web scraper with **Selenium + PostgreSQL + Streamlit**  
+- **[DataOps Pipeline](https://github.com/SaadkhPy/)** ⚡ – End-to-end pipeline with **Kafka, Kylin, and Superset**  
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity  
 
-<table align="center" >
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaadkhPy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      <br/>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SaadkhPy&show_icons=true&theme=radical" alt="GitHub Stats"/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadkhPy&layout=compact&theme=radical" alt="Top Languages"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=SaadkhPy&theme=radical" alt="GitHub Streak"/>
-      <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=SaadkhPy&theme=radical&margin-w=15&margin-h=15" alt="Trophy"/>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=SaadkhPy&theme=radical" alt="GitHub Streak"/><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=SaadkhPy&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 
-> ☕ I spend my days automating complex data workflows, and my evenings trying to automate the perfect brewing time for **Moroccan mint tea**. 
-> So far... tea is harder. 🍵
+> ☕ By day: automating complex **data workflows**.  
+> 🌙 By night: still failing to automate the perfect brewing time for **Moroccan mint tea** 🍵  
 
 ---
 
