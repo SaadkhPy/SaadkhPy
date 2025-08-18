@@ -20,14 +20,14 @@
 ## 🚀 About Me  
 
 I’m **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
-I love building **scalable, automated, and reliable data pipelines** by blending **Data Engineering** with **DevOps principles**.  
+I specialize in building **scalable, automated, and reliable data pipelines** by blending **Data Engineering** with **DevOps principles**.  
 
 🔹 **Quick Highlights:**  
-- 🛠️ 3+ years of experience working with **Python, SQL, Docker, and Kubernetes**  
-- 🔄 Designed **ETL/ELT pipelines** with Kafka, Spark, and Airflow  
+- 🛠️ Experienced with **Python, SQL, Docker, and Kubernetes**  
+- 🔄 Designed **ETL/ELT pipelines** using Kafka, Spark, and Airflow  
 - ☁️ Hands-on with **Terraform, Kubernetes, and CI/CD** for cloud-native infra  
 - 📊 Built **data visualization dashboards** with Superset & Streamlit  
-- 🌍 Community-driven and open to **collaboration on open-source** projects  
+- 🌍 Passionate about **open-source collaboration**  
 
 ---
 
@@ -67,12 +67,14 @@ I love building **scalable, automated, and reliable data pipelines** by blending
 
 ## 📌 Featured Projects  
 
-<a href="https://github.com/SaadkhPy/dofus-scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=dofus-scraper&theme=radical" />
-</a>
-<a href="https://github.com/SaadkhPy/dataops-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=dataops-pipeline&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/SaadkhPy/scraping-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=scraping-project&theme=radical" />
+  </a>
+</p>
+
+📖 **Scraping Project** – A modular **web scraping framework** in Python, built with **BeautifulSoup, Selenium, and PostgreSQL**.  
+Supports **pagination detection, metadata extraction, infinite scrolling, and multi-format exports (CSV/JSON/Parquet)**.  
 
 ---
 
