@@ -3,15 +3,7 @@
   
   <h3>⚡ DataOps Engineer | Automating Data Infrastructure ⚡</h3>
   
-  <p>
-    <a href="https://www.linkedin.com/in/saad-khalmadani" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/SaadkhPy" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
-    </a>
-  </p>
-</div>
+<a href="https://www.linkedin.com/in/saad-khalmadani" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://github.com/SaadkhPy" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/> </a> </div>
 
 ---
 
