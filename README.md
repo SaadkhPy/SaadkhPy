@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saad%20Khalmadani%20🚀&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saad%20KHALMADANI%20🚀&fontSize=40&animation=fadeIn&fontAlignY=40" />
   
   <h3>⚡ DataOps Engineer | Automating Data Infrastructure ⚡</h3>
   
