@@ -95,7 +95,11 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 - 🎮 Data-ready backend for building a **Streamlit monster encyclopedia app**  
 
 **Tech Stack:** Python | Selenium | BeautifulSoup | PostgreSQL | Streamlit  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://dofusdataforge-project.streamlit.app/)
+
+**Live Demo Access:**  
+- 🌐 [Streamlit App Link](https://dofusdataforge-project.streamlit.app/)  
+- 🔑 **Username:** `bob`  
+- 🔑 **Password:** `bobpass`
 
 **Use Case:** Ideal for **gamers, data enthusiasts, and developers** looking to analyze and visualize **Dofus Touch monsters** in a clean, structured way.  
 
