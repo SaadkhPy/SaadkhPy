@@ -69,9 +69,9 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ## 📌 Featured Projects  
 
-### 1️⃣ [DofusDataForge](https://github.com/SaadkhPy/scraping-project)
+### 1️⃣ [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=scraping-project&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=DofusDataForge-project&theme=radical" />
 </p>
 
 **DofusDataForge** is a **Python web scraping project** built with **BeautifulSoup, Selenium, and PostgreSQL**, designed to extract monster data from the official **Dofus Touch website**.  
