@@ -67,26 +67,27 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects  
 
-### 1️⃣ [Scraping Project](https://github.com/SaadkhPy/scraping-project)
+### 1️⃣ [DofusDataForge](https://github.com/SaadkhPy/scraping-project)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=scraping-project&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=scraping-project&theme=radical" />
 </p>
 
-A **modular Python web scraping framework** built with **BeautifulSoup, Selenium, and PostgreSQL**.  
-**Purpose:** Efficiently extract structured and unstructured web data from multiple websites with minimal configuration.  
+**DofusDataForge** is a **Python web scraping project** built with **BeautifulSoup, Selenium, and PostgreSQL**, designed to extract monster data from the official **Dofus Touch website**.  
+**Purpose:** Collect, store, and organize Dofus data into a structured database, enabling future app development with **Streamlit**.  
 
-**Features:**  
-- 🧩 Modular design for easy extension to new websites  
-- 🔍 Pagination detection & automatic navigation  
-- 📝 Metadata extraction (titles, alt texts, tags)  
-- ♾️ Infinite scroll handling with Selenium  
-- 💾 Flexible export: CSV / JSON / Parquet  
-- 🚀 PostgreSQL integration for data storage  
-- ⚡ Optimized with multi-threading & concurrent scraping  
+**Features:**  
+- 🧩 Automated scraping of monsters and metadata (names, levels, types, images)  
+- 🔍 Pagination detection & navigation across encyclopedia pages  
+- 📝 Metadata extraction (alt texts, tags, levels)  
+- ♾️ Infinite scroll handling with Selenium  
+- 💾 PostgreSQL integration for structured storage  
+- 📊 Flexible export: CSV / JSON / Parquet  
+- ⚡ Optimized with multi-threading & concurrent scraping  
+- 🎮 Data-ready backend for building a **Streamlit monster encyclopedia app**  
 
-**Use Case:** Perfect for **data analysts, engineers, or enthusiasts** looking to automate web data collection **scalably and maintainably**.
+**Use Case:** Ideal for **gamers, data enthusiasts, and developers** looking to analyze and visualize **Dofus Touch monsters** in a clean, structured way.  
 
 ---
 
