@@ -67,27 +67,53 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects
 
-### 1️⃣ [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=DofusDataForge-project&theme=radical" />
-</p>
+### ​​​ [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project) • [Live App](https://dofusdataforge-project.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo–Streamlit-blue)](https://dofusdataforge-project.streamlit.app/)
 
-**DofusDataForge** is a **Python web scraping project** built with **BeautifulSoup, Selenium, and PostgreSQL**, designed to extract monster data from the official **Dofus Touch website**.  
-**Purpose:** Collect, store, and organize Dofus data into a structured database, enabling future app development with **Streamlit**.  
+**DofusDataForge** is a **Python web scraping pipeline** powered by **BeautifulSoup**, **Selenium**, and **PostgreSQL**, engineered to extract and store monster data from the official **Dofus Touch** site. The backend supports a sleek **Streamlit app** for browsing and interacting with the data.
 
-**Features:**  
-- 🧩 Automated scraping of monsters and metadata (names, levels, types, images)  
-- 🔍 Pagination detection & navigation across encyclopedia pages  
-- 📝 Metadata extraction (alt texts, tags, levels)  
-- ♾️ Infinite scroll handling with Selenium  
-- 💾 PostgreSQL integration for structured storage  
-- 📊 Flexible export: CSV / JSON / Parquet  
-- ⚡ Optimized with multi-threading & concurrent scraping  
-- 🎮 Data-ready backend for building a **Streamlit monster encyclopedia app**  
+---
 
-**Use Case:** Ideal for **gamers, data enthusiasts, and developers** looking to analyze and visualize **Dofus Touch monsters** in a clean, structured way.  
+###  Features
+
+-  Automated scraping of monsters and metadata (names, levels, types, images)  
+-  Smart pagination & infinite scroll handling via Selenium  
+-  Metadata extraction (alt text, tags, levels)  
+-  Structured storage through PostgreSQL + flexible export (CSV / JSON / Parquet)  
+-  Concurrency & multi-threading optimized  
+-  **Live Streamlit app** to visualize and explore the monster database  
+
+---
+
+###  Use Case
+
+Perfect for **Dofus Touch players, game developers, and data enthusiasts** looking to explore monster data in an interactive format. The backend scraper feeds the Streamlit interface, enabling rapid prototyping of dashboards or analytics tools.
+
+---
+
+###  Tech Stack & Workflow
+
+1. **Scraping Layer** — Crawls official site using Selenium & BeautifulSoup  
+2. **Data Storage** — Saves structured data into PostgreSQL  
+3. **Streamlit Frontend** — Instant web app for showcasing and querying the collected data  
+
+---
+
+###  Why It Stands Out
+
+This project isn’t just a scraper—it’s a full ingestion-to-display pipeline, complete with a polished UI and database integration. It’s a strong portfolio piece that demonstrates mastery across scraping, data storage, and front-end app deployment.
+
+---
+
+###  Want More?
+
+- Need help with **Streamlit UI components** (like filters, search, or caching performance via `@st.cache_resource`) :contentReference[oaicite:0]{index=0}?  
+- Looking to **optimize scraper performance**, integrate with additional APIs, stylize front-end themes, or even deploy via Docker?
+
+Just let me know — happy to assist at any stage!
+::contentReference[oaicite:1]{index=1}
 
 ---
 
