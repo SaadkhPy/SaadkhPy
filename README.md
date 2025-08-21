@@ -16,14 +16,23 @@
 ## 🚀 About Me  
 
 Hi! I’m **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
-I specialize in **building scalable, automated, and reliable data pipelines**, blending **Data Engineering** skills with **DevOps practices** to deliver production-ready solutions.
+I design and implement **scalable, automated, and reliable data pipelines**, merging **Data Engineering expertise** with **DevOps practices** to deliver production-ready systems.  
 
-🔹 **Highlights:**  
-- 🛠️ Skilled in **Python, SQL, Docker, Kubernetes**  
-- 🔄 Designed **ETL/ELT pipelines** using Kafka, Spark & Airflow  
-- ☁️ Experienced with **Terraform, Kubernetes, CI/CD** for cloud-native systems  
-- 📊 Built **dashboards & analytics apps** with Superset & Streamlit  
-- 🌍 Advocate of **open-source and continuous learning**  
+---
+
+## 🎯 Career Goals  
+
+- **1 Year:** Strengthen expertise in **DataOps & Cloud Infrastructure**, contributing to production-grade pipelines.  
+- **3 Years:** Lead **data engineering & architecture projects** focusing on large-scale distributed systems and real-time analytics.  
+
+---
+
+## 🏆 Key Achievements  
+
+- ⚡ Optimized SQL & MongoDB queries, reducing execution time by **40%**.  
+- 🔄 Built **real-time Kafka pipelines** for IoT sensor data (reservoirs & dams).  
+- 🚀 Automated reporting workflows with **Python**, saving 10+ hours per week.  
+- 📊 Developed **interactive dashboards** with Superset & Streamlit for analytics.  
 
 ---
 
@@ -72,24 +81,30 @@ I specialize in **building scalable, automated, and reliable data pipelines**, b
 
 ---
 
-## 📌 Featured Project  
+## 📌 Featured Projects  
 
 ### 🔹 [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=DofusDataForge-project&theme=radical" />
-</p>
+**Python-based scraping + Streamlit app**  
+- Extracts monster data from **Dofus Touch** website  
+- Stores in **PostgreSQL** with export options (CSV / JSON / Parquet)  
+- Interactive demo: [Streamlit App](https://dofusdataforge-project.streamlit.app/)  
+🔑 User: `bob` | 🔑 Pass: `bobpass`  
 
-**DofusDataForge** is a **Python-based web scraping pipeline** built with **Selenium, BeautifulSoup, and PostgreSQL**. It extracts structured monster data from the official **Dofus Touch website** and prepares it for visualization apps.  
+---
 
-**Key Features:**  
-- 🧩 Automated scraping of monsters & metadata (names, levels, images, types)  
-- 🔍 Smart pagination & infinite scroll handling with Selenium  
-- 💾 PostgreSQL storage + export to **CSV / JSON / Parquet**  
-- ⚡ Optimized multi-threaded & concurrent scraping  
-- 🎮 Backend-ready for a **Streamlit encyclopedia app**  
+### 🔹 Kafka Streaming Pipeline *(Example)*  
+**IoT Data Processing with Kafka & Spark**  
+- Real-time ingestion of sensor data  
+- Stream processing with **Apache Spark**  
+- Aggregated analytics via **Superset dashboards**  
 
-**Live Demo:** [Streamlit App](https://dofusdataforge-project.streamlit.app/)  
-🔑 **Username:** `bob` | 🔑 **Password:** `bobpass`  
+---
+
+### 🔹 ETL Automation Suite *(Example)*  
+**ETL orchestration with Airflow**  
+- Automated batch processing pipelines  
+- Cloud deployment with **Docker & Kubernetes**  
+- Monitoring with **Prometheus & Grafana**  
 
 ---
 
@@ -114,9 +129,19 @@ I specialize in **building scalable, automated, and reliable data pipelines**, b
 
 ---
 
+## 📫 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-khalmadani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SaadkhPy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:saadkh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
 ## ⚡ Fun Fact  
 
-☕ Automating **data pipelines** by day, mastering **Moroccan mint tea** by night 🍵✨  
+☕ Automating **data pipelines** by day, perfecting **Moroccan mint tea** by night 🍵✨  
 
 ---
 
