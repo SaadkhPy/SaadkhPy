@@ -16,68 +16,59 @@
 ## 🚀 About Me  
 
 Hi! I’m **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
-I design and implement **scalable, automated, and reliable data pipelines**, merging **Data Engineering expertise** with **DevOps practices** to deliver production-ready systems.  
+I specialize in building **scalable, automated, and reliable data pipelines** by combining **Data Engineering** expertise with **DevOps practices** to deliver production-ready solutions.  
 
 ---
 
 ## 🎯 Career Goals  
 
 - **1 Year:** Strengthen expertise in **DataOps & Cloud Infrastructure**, contributing to production-grade pipelines.  
-- **3 Years:** Lead **data engineering & architecture projects** focusing on large-scale distributed systems and real-time analytics.  
+- **3 Years:** Lead **data engineering & architecture projects** focusing on **real-time analytics** and **large-scale distributed systems**.  
 
 ---
 
 ## 🏆 Key Achievements  
 
-- ⚡ Optimized SQL & MongoDB queries, reducing execution time by **40%**.  
-- 🔄 Built **real-time Kafka pipelines** for IoT sensor data (reservoirs & dams).  
-- 🚀 Automated reporting workflows with **Python**, saving 10+ hours per week.  
-- 📊 Developed **interactive dashboards** with Superset & Streamlit for analytics.  
+- ⚡ Optimized SQL & MongoDB queries → **40% faster execution**.  
+- 🔄 Built **real-time Kafka pipelines** for IoT sensor data (dams & reservoirs).  
+- 🚀 Automated reporting workflows with **Python**, saving **10+ hours/week**.  
+- 📊 Designed **interactive dashboards** with Superset & Streamlit for analytics.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<details open>
-<summary>📂 Expand to view full stack</summary>
-
-<div align="center">
-
-<h4>💻 Languages</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
+### 👨‍💻 Languages & Scripting  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<h4>🗄️ Databases</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="30" title="MariaDB" />
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h4>⚙️ DevOps & Cloud</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" title="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" title="Terraform" />
+### 📊 Big Data & Analytics  
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kylin-004A77?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-<h4>🔥 Data Processing & Analytics</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" title="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" title="Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Apache_Kylin_logo.svg" width="30" title="Apache Kylin" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" width="30" title="Apache Superset" />
+### 🚀 DevOps & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
-</div>
-</details>
 
 ---
 
@@ -85,26 +76,18 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ### 🔹 [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)  
 **Python-based scraping + Streamlit app**  
-- Extracts monster data from **Dofus Touch** website  
-- Stores in **PostgreSQL** with export options (CSV / JSON / Parquet)  
-- Interactive demo: [Streamlit App](https://dofusdataforge-project.streamlit.app/)  
-🔑 User: `bob` | 🔑 Pass: `bobpass`  
+- Extracts structured **monster data** from **Dofus Touch** official website.  
+- Stores in **PostgreSQL** with export options (**CSV / JSON / Parquet**).  
+- Deployed interactive **Streamlit demo**: [Live App](https://dofusdataforge-project.streamlit.app/)  
+🔑 **Login** → User: `bob` | Pass: `bobpass`  
 
 ---
 
-### 🔹 Kafka Streaming Pipeline *(Example)*  
-**IoT Data Processing with Kafka & Spark**  
-- Real-time ingestion of sensor data  
-- Stream processing with **Apache Spark**  
-- Aggregated analytics via **Superset dashboards**  
-
----
-
-### 🔹 ETL Automation Suite *(Example)*  
-**ETL orchestration with Airflow**  
-- Automated batch processing pipelines  
-- Cloud deployment with **Docker & Kubernetes**  
-- Monitoring with **Prometheus & Grafana**  
+### 🔹 [Realtime CDC Streaming](https://github.com/SaadkhPy/realtime-cdc-streaming-project)  
+**IoT Data Streaming Pipeline**  
+- Real-time ingestion of **sensor data** using **Kafka**.  
+- Stream processing with **Apache Spark**.  
+- Visualization & analytics with **Superset dashboards**.  
 
 ---
 
@@ -123,9 +106,9 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ## 🌱 Currently Exploring  
 
-- ☁️ **Cloud-native architectures** (Kubernetes + Terraform)  
+- ☁️ **Cloud-native architectures** → Kubernetes & Terraform  
 - 📦 **Data Mesh & Streaming** with Kafka  
-- 🤖 **MLOps workflows** using Kubeflow  
+- 🤖 **MLOps workflows** powered by Kubeflow  
 
 ---
 
@@ -134,7 +117,6 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-khalmadani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SaadkhPy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:saadkh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
