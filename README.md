@@ -112,15 +112,6 @@ I specialize in building **scalable, automated, and reliable data pipelines** by
 
 ---
 
-## 📫 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-khalmadani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SaadkhPy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 ## ⚡ Fun Fact  
 
 ☕ Automating **data pipelines** by day, perfecting **Moroccan mint tea** by night 🍵✨  
