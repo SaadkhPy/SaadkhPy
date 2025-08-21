@@ -77,7 +77,10 @@ I specialize in building **scalable, automated, and reliable data pipelines** by
 ### 🔹 [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)  
 **Python-based scraping + Streamlit app**  
 - Extracts structured **monster data** from **Dofus Touch** official website.  
-- Stores in **PostgreSQL** with export options (**CSV / JSON / Parquet**).  
+- Stores in **PostgreSQL** with export options (**CSV / JSON / Parquet**).
+
+  🔹Tech Stack: Python, Selenium, BeautifulSoup, PostgreSQL, Streamlit, Pandas, NumPy
+
 - Deployed interactive **Streamlit demo**: [Live App](https://dofusdataforge-project.streamlit.app/)  
 🔑 **Login** → User: `bob` | Pass: `bobpass`  
 
@@ -87,7 +90,9 @@ I specialize in building **scalable, automated, and reliable data pipelines** by
 **IoT Data Streaming Pipeline**  
 - Real-time ingestion of **sensor data** using **Kafka**.  
 - Stream processing with **Apache Spark**.  
-- Visualization & analytics with **Superset dashboards**.  
+- Visualization & analytics with **Superset dashboards**.
+
+  🔹Tech Stack: Apache Kafka, Debezium, Apache Spark, PostgreSQL, Apache Superset, Python
 
 ---
 
