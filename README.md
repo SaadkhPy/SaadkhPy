@@ -16,21 +16,21 @@
 ## 🚀 About Me  
 
 Hi! I’m **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
-I design and implement **scalable, automated, and reliable data pipelines**, merging **Data Engineering** expertise with **DevOps practices**.
+I specialize in **building scalable, automated, and reliable data pipelines**, blending **Data Engineering** skills with **DevOps practices** to deliver production-ready solutions.
 
-🔹 **Quick Highlights:**  
-- 🛠️ Proficient in **Python, SQL, Docker, Kubernetes**  
-- 🔄 Built **ETL/ELT pipelines** with Kafka, Spark, and Airflow  
-- ☁️ Hands-on experience with **Terraform, Kubernetes, CI/CD** for cloud-native infrastructures  
-- 📊 Developed **interactive dashboards** using Superset & Streamlit  
-- 🌍 Advocate for **open-source contributions**  
+🔹 **Highlights:**  
+- 🛠️ Skilled in **Python, SQL, Docker, Kubernetes**  
+- 🔄 Designed **ETL/ELT pipelines** using Kafka, Spark & Airflow  
+- ☁️ Experienced with **Terraform, Kubernetes, CI/CD** for cloud-native systems  
+- 📊 Built **dashboards & analytics apps** with Superset & Streamlit  
+- 🌍 Advocate of **open-source and continuous learning**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <details open>
-<summary>📂 Click to expand</summary>
+<summary>📂 Expand to view full stack</summary>
 
 <div align="center">
 
@@ -60,51 +60,40 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" title="Terraform" />
 </p>
 
-<h4>🔥 Data Processing</h4>
+<h4>🔥 Data Processing & Analytics</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="30" title="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" title="Spark" />
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" width="30" title="Superset" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Apache_Kylin_logo.svg" width="30" title="Apache Kylin" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" width="30" title="Apache Superset" />
 </p>
 </div>
 </details>
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Project  
 
-### 1️⃣ [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)
+### 🔹 [DofusDataForge](https://github.com/SaadkhPy/DofusDataForge-project)  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadkhPy&repo=DofusDataForge-project&theme=radical" />
 </p>
 
-**DofusDataForge** is a **Python web scraping project** built with **BeautifulSoup, Selenium, and PostgreSQL**, designed to extract monster data from the official **Dofus Touch website**.  
+**DofusDataForge** is a **Python-based web scraping pipeline** built with **Selenium, BeautifulSoup, and PostgreSQL**. It extracts structured monster data from the official **Dofus Touch website** and prepares it for visualization apps.  
 
-**Purpose:** Collect, store, and organize Dofus data into a structured database, enabling future app development with **Streamlit**.  
+**Key Features:**  
+- 🧩 Automated scraping of monsters & metadata (names, levels, images, types)  
+- 🔍 Smart pagination & infinite scroll handling with Selenium  
+- 💾 PostgreSQL storage + export to **CSV / JSON / Parquet**  
+- ⚡ Optimized multi-threaded & concurrent scraping  
+- 🎮 Backend-ready for a **Streamlit encyclopedia app**  
 
-**Features:**  
-- 🧩 Automated scraping of monsters and metadata (names, levels, types, images)  
-- 🔍 Pagination detection & navigation across encyclopedia pages  
-- 📝 Metadata extraction (alt texts, tags, levels)  
-- ♾️ Infinite scroll handling with Selenium  
-- 💾 PostgreSQL integration for structured storage  
-- 📊 Flexible export: CSV / JSON / Parquet  
-- ⚡ Optimized with multi-threading & concurrent scraping  
-- 🎮 Data-ready backend for building a **Streamlit monster encyclopedia app**  
-
-**Tech Stack:** Python | Selenium | BeautifulSoup | PostgreSQL | Streamlit  
-
-**Live Demo Access:**  
-- 🌐 [Streamlit App Link](https://dofusdataforge-project.streamlit.app/)  
-- 🔑 **Username:** `bob`  
-- 🔑 **Password:** `bobpass`
-
-**Use Case:** Ideal for **gamers, data enthusiasts, and developers** looking to analyze and visualize **Dofus Touch monsters** in a clean, structured way.  
+**Live Demo:** [Streamlit App](https://dofusdataforge-project.streamlit.app/)  
+🔑 **Username:** `bob` | 🔑 **Password:** `bobpass`  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaadkhPy&show_icons=true&theme=radical" height="160" />
@@ -117,17 +106,17 @@ I design and implement **scalable, automated, and reliable data pipelines**, mer
 
 ---
 
-## 🌱 Currently Learning  
+## 🌱 Currently Exploring  
 
-- ☁️ Advanced **Cloud Infrastructure** with Kubernetes + Terraform  
-- 📦 **Data Mesh & Streaming Architectures** with Kafka  
-- 🤖 **MLOps workflows** with Kubeflow  
+- ☁️ **Cloud-native architectures** (Kubernetes + Terraform)  
+- 📦 **Data Mesh & Streaming** with Kafka  
+- 🤖 **MLOps workflows** using Kubeflow  
 
 ---
 
 ## ⚡ Fun Fact  
 
-☕ Automating **data workflows**, but still perfecting **Moroccan mint tea** 🍵😂
+☕ Automating **data pipelines** by day, mastering **Moroccan mint tea** by night 🍵✨  
 
 ---
 
