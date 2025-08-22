@@ -16,7 +16,7 @@
 ## 🚀 About Me  
 
 Hi! I’m **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
-I specialize in building **scalable, automated, and reliable data pipelines** by combining **Data Engineering** expertise with **DevOps practices** to deliver production-ready solutions.  
+I specialise in building **scalable, automated, and reliable data pipelines** by combining **Data Engineering** expertise with **DevOps practices** to deliver production-ready solutions.  
 
 ---
 
