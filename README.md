@@ -23,7 +23,7 @@ I specialise in building **scalable, automated, and reliable data pipelines** by
 ## 🎯 Career Goals  
 
 - **1 Year:** Strengthen expertise in **DataOps & Cloud Infrastructure**, contributing to production-grade pipelines.  
-- **3 Years:** Lead **data engineering & architecture projects** focusing on **real-time analytics** and **large-scale distributed systems**.  
+- **2 Years:** Lead **data engineering & architecture projects** focusing on **real-time analytics** and **large-scale distributed systems**.  
 
 ---
 
