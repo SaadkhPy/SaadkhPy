@@ -71,7 +71,8 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" title="Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" title="Hadoop"/>
   <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-kylin-original.svg" alt="Kylin" width="40" height="40" title="Kylin"/>
-  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-superset-original.svg" alt="Superset" width="40" height="40" title="Superset"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Apache_Superset_logo.svg" alt="Superset" width="40" height="40" title="Superset"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Hive" width="40" height="40" title="Hive"/>
   <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/debezium-original.svg" alt="Debezium" width="40" height="40" title="Debezium"/>
 </p>
 
