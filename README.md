@@ -70,11 +70,12 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" title="Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" title="Hadoop"/>
-  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-kylin-original.svg" alt="Kylin" width="40" height="40" title="Kylin"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Apache_Superset_logo.svg" alt="Superset" width="40" height="40" title="Superset"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Hive" width="40" height="40" title="Hive"/>
-  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/debezium-original.svg" alt="Debezium" width="40" height="40" title="Debezium"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_60,h_60,ar_1/f_auto/v1/icons/logos/apachekylin-x3erjwirp42wj7fw3fh4z.png/apachekylin-do1cjrp803djjoedvd32j.png?_a=DATAg1AAZAA0" alt="Kylin" width="40" height="40" title="Kylin"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" alt="Superset" width="40" height="40" title="Superset"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/999px-Apache_Hive_logo.svg.png?20151020034510" alt="Hive" width="40" height="40" title="Hive"/>
 </p>
+
+
 
 ### 🚀 Containers & Orchestration
 <p align="left">
