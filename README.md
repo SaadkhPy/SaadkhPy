@@ -61,8 +61,8 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" title="Redis"/>
-  <img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle" alt="Oracle" width="90" height="40" title="Oracle"/>
-  <img src="https://img.shields.io/badge/Hive-yellow?style=flat&logo=apache-hive" alt="Hive" width="90" height="40" title="Apache Hive"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" title="Oracle"/>
+  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-hive-original.svg" alt="Hive" width="40" height="40" title="Hive"/>
 </p>
 
 ### 📊 Big Data & Streaming
@@ -70,9 +70,9 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" title="Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" title="Hadoop"/>
-  <img src="https://img.shields.io/badge/Kylin-orange?style=flat&logo=apachekylin" alt="Kylin" width="90" height="40" title="Apache Kylin"/>
-  <img src="https://img.shields.io/badge/Superset-red?style=flat&logo=apache-superset" alt="Superset" width="90" height="40" title="Apache Superset"/>
-  <img src="https://img.shields.io/badge/Debezium-blue?style=flat" alt="Debezium" width="90" height="40" title="Debezium"/>
+  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-kylin-original.svg" alt="Kylin" width="40" height="40" title="Kylin"/>
+  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/apache-superset-original.svg" alt="Superset" width="40" height="40" title="Superset"/>
+  <img src="https://raw.githubusercontent.com/SaadkhPy/icons/main/debezium-original.svg" alt="Debezium" width="40" height="40" title="Debezium"/>
 </p>
 
 ### 🚀 Containers & Orchestration
