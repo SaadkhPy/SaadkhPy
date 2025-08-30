@@ -94,18 +94,19 @@ I’m passionate about:
 ### 🎨 UI/UX & Design Tools
 <p align="left" style="display:flex; gap:15px;">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" alt="Photoshop" width="45" height="45" title="Photoshop" style="border-radius:8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" alt="Photoshop" width="45" height="45" title="Photoshop" style="filter: brightness(0) invert(1); border-radius:8px;"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeillustrator.svg" alt="Illustrator" width="45" height="45" title="Illustrator" style="border-radius:8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeillustrator.svg" alt="Illustrator" width="45" height="45" title="Illustrator" style="filter: brightness(0) invert(1); border-radius:8px;"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobexd.svg" alt="Adobe XD" width="45" height="45" title="Adobe XD" style="border-radius:8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobexd.svg" alt="Adobe XD" width="45" height="45" title="Adobe XD" style="filter: brightness(0) invert(1); border-radius:8px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" alt="Figma" width="45" height="45" title="Figma" style="border-radius:8px;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" alt="Figma" width="45" height="45" title="Figma" style="filter: brightness(0) invert(1); border-radius:8px;"/>
   </a>
 </p>
+
 
 
 ---
