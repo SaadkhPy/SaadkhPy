@@ -44,8 +44,9 @@ I’m passionate about:
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Programming Languages
-<p align="left">
+<details>
+<summary>👨‍💻 Programming Languages</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
@@ -53,9 +54,11 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
 </p>
+</details>
 
-### 🗄️ Databases
-<p align="left">
+<details>
+<summary>🗄️ Databases</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" title="MariaDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
@@ -64,35 +67,41 @@ I’m passionate about:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" title="Oracle"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/999px-Apache_Hive_logo.svg.png?20151020034510" alt="Hive" width="40" height="40" title="Hive"/>
 </p>
+</details>
 
-### 📊 Big Data & Streaming
-<p align="left">
+<details>
+<summary>📊 Big Data & Streaming</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40" title="Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" title="Hadoop"/>
   <img src="https://assets.streamlinehq.com/image/private/w_60,h_60,ar_1/f_auto/v1/icons/logos/apachekylin-x3erjwirp42wj7fw3fh4z.png/apachekylin-do1cjrp803djjoedvd32j.png?_a=DATAg1AAZAA0" alt="Kylin" width="40" height="40" title="Kylin"/>
   <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" alt="Superset" width="40" height="40" title="Superset"/>
 </p>
+</details>
 
-
-
-### 🚀 Containers & Orchestration
-<p align="left">
+<details>
+<summary>🚀 Containers & Orchestration</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="Unix" width="40" height="40" title="Unix"/>
 </p>
+</details>
 
-### 🛠️ Development Tools
-<p align="left">
+<details>
+<summary>🛠️ Development Tools</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" title="Eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" title="VSCode"/>
 </p>
+</details>
 
-### 🎨 UI/UX & Design Tools
-<p align="left" style="display: flex; gap: 15px;">
+<details>
+<summary>🎨 UI/UX & Design Tools</summary>
+<p align="left" style="display:flex; gap:15px; margin-top:10px;">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/adobe-photoshop-hff0xu4145x91pca439c.png/adobe-photoshop-ob1091banf9eiaykz328v.png?_a=DATAg1AAZAA0" alt="Photoshop" width="45" height="45" title="Photoshop" style="border-radius: 8px;"/>
   </a>
@@ -106,6 +115,8 @@ I’m passionate about:
     <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/3/figma-f5dqdc8cdfr26wz3fxyb07.png/figma-29jkhh18a0g7a4l6z446bb.png?_a=DATAg1AAZAA0" alt="Figma" width="45" height="45" title="Figma" style="border-radius: 8px;"/>
   </a>
 </p>
+</details>
+
 
 
 
