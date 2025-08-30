@@ -92,20 +92,21 @@ I’m passionate about:
 </p>
 
 ### 🎨 UI/UX & Design Tools
-<p align="left" style="display:flex; gap:15px;">
+<p align="left" style="display: flex; gap: 15px;">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" alt="Photoshop" width="45" height="45" title="Photoshop" style="border-radius:8px;"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/adobe-photoshop-hff0xu4145x91pca439c.png/adobe-photoshop-ob1091banf9eiaykz328v.png?_a=DATAg1AAZAA0" alt="Photoshop" width="45" height="45" title="Photoshop" style="border-radius: 8px;"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeillustrator.svg" alt="Illustrator" width="45" height="45" title="Illustrator" style="border-radius:8px;"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/adobe-illustrator-535zp9xbaqn8qybkelwxl.png/adobe-illustrator-ov7loszp3cio4ggxmfdmb.png?_a=DATAg1AAZAA0" alt="Illustrator" width="45" height="45" title="Illustrator" style="border-radius: 8px;"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobexd.svg" alt="Adobe XD" width="45" height="45" title="Adobe XD" style="border-radius:8px;"/>
+  <a href="https://www.adobe.com/products/indesign.html" target="_blank">
+    <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/1/adobe-indesign-2axsutj4ncxnlgn75eoezf.png/adobe-indesign-74cd7ia37v4q7hyz5ifm2g.png?_a=DATAg1AAZAA0" alt="InDesign" width="45" height="45" title="InDesign" style="border-radius: 8px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" alt="Figma" width="45" height="45" title="Figma" style="border-radius:8px;"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_100,h_100,ar_1/f_auto/v1/icons/3/figma-f5dqdc8cdfr26wz3fxyb07.png/figma-29jkhh18a0g7a4l6z446bb.png?_a=DATAg1AAZAA0" alt="Figma" width="45" height="45" title="Figma" style="border-radius: 8px;"/>
   </a>
 </p>
+
 
 
 
